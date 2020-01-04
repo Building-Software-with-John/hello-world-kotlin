@@ -10,7 +10,7 @@
 
   <properties>
     <kotlin.version>1.3.61</kotlin.version>
-    <main.class>application.ApplicationKt</main.class>
+<!--    <main.class>application.ApplicationKt</main.class>-->
   </properties>
 
   <parent>
