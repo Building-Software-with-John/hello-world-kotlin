@@ -40,7 +40,7 @@
   </dependencies>
 
   <build>
-    <finalName>kotlin-app</finalName>
+    <finalName>application</finalName>
 
     <!--        specifies where our kotlin classes/objects live so they can-->
     <!--        be compiled-->
